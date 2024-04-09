@@ -16,6 +16,7 @@ program to find the solution for the given linear equation.
 Developed by:KISHORE M
 Register Number: 2305002012
 ```
+```
 import numpy as np
 A=np.array([[6,2,3],[3,1,1],[10,3,4]])
 I=np.linalg.inv(A)
@@ -23,12 +24,12 @@ print("The inverse of Matrix is:")
 print(I)
 ```
 ## Output:
-\\\
+```
 #3 Program to find the inverse of the matrix [[6, 2, 3], [3, 1,1], [10,3,4]]
 #program to find the solution for the given linear equation
 #Developed by: Kishore M
 #RegisterNumber: 2305002012
-\\\
+```
 ```
 <img width="531" alt="inverse" src="https://github.com/kishore07062005/INVERSE-OF-A-MATRIX/assets/156066116/77d88e66-ff4e-43d3-8acd-f7fe5ced4480">
 ```
