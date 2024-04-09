@@ -28,6 +28,8 @@ print(I)
 #program to find the solution for the given linear equation
 #Developed by: Kishore M
 #RegisterNumber: 2305002012
+```
+```
 <img width="531" alt="inverse" src="https://github.com/kishore07062005/INVERSE-OF-A-MATRIX/assets/156066116/77d88e66-ff4e-43d3-8acd-f7fe5ced4480">
 ```
 
