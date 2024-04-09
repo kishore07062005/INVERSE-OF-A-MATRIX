@@ -21,7 +21,12 @@ print("The inverse of Matrix is:")
 print(I)
 ```
 ## Output:
+```
+#3 Program to find the inverse of the matrix [[6, 2, 3], [3, 1,1], [10,3,4]]
+#Developed by: Kishore.M
+#RegisterNumber: 2305002012
+```
+<img width="531" alt="inverse" src="https://github.com/kishore07062005/INVERSE-OF-A-MATRIX/assets/156066116/0f8effa8-5a6b-4dc5-9dec-50c1d7223ef2">
 
 ## Result:
-Thus the inverse of given matrix is successfully solved using python program
-
+Thus the inverse of given matrix is successfully solved using python program.
