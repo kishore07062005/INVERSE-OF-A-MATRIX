@@ -25,6 +25,8 @@ print(I)
 ## Output:
 ```
 #3 Program to find the inverse of the matrix [[6, 2, 3], [3, 1,1], [10,3,4]]
+```
+```
 #program to find the solution for the given linear equation
 #Developed by: Kishore M
 #RegisterNumber: 2305002012
