@@ -29,6 +29,7 @@ print(I)
 #Developed by: Kishore M
 #RegisterNumber: 2305002012
 ```
-<img width="531" alt="inverse" src="https://github.com/kishore07062005/INVERSE-OF-A-MATRIX/assets/156066116/0f8effa8-5a6b-4dc5-9dec-50c1d7223ef2">
+<img width="531" alt="inverse" src="https://github.com/kishore07062005/INVERSE-OF-A-MATRIX/assets/156066116/77d88e66-ff4e-43d3-8acd-f7fe5ced4480">
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program.
