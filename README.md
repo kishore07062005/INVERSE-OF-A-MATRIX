@@ -1,5 +1,5 @@
 # INVERSE-OF-A-MATRIX
-# DATE: 09/03/2024
+# DATE: 16/03/2024
 ## Aim:
 To write a python program to find the inverse of a matrix
 ## Equipment’s required:
@@ -27,7 +27,7 @@ print("The inverse of Matrix is:")
 print(I)
 ```
 ## Output:
-<img width="778" alt="rank" src="https://github.com/kishore07062005/INVERSE-OF-A-MATRIX/assets/156066116/93461900-c4fa-497a-b184-71fb9377147c">
+<img width="785" alt="image" src="https://github.com/kishore07062005/INVERSE-OF-A-MATRIX/assets/156066116/96e1a6a8-1407-411e-b17a-06a44f93f749">
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program.
